@@ -57,13 +57,13 @@ a full run.
 
 ## Citation
 ```bibtex
-@article{poppel2025frequency,
-  title={Grid-Based Initialization Resolves Frequency Reachability
-         in Trainable-Frequency Quantum Machine Learning},
-  author={Poppel, Michael and Bucher, David and Zorn, Maximilian and
-          Kraus, Nico and Altmann, Philipp and Stein, Jonas and
-          Linnhoff-Popien, Claudia},
-  journal={Transactions on Machine Learning Research},
-  year={2025}
+@misc{poppel2026longrangefrequencytuning,
+      title={Long Range Frequency Tuning for QML}, 
+      author={Michael Poppel and Jonas Stein and Sebastian Wölckert and Markus Baumann and Claudia Linnhoff-Popien},
+      year={2026},
+      eprint={2602.23409},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.23409}, 
 }
 ```
